@@ -1,0 +1,11 @@
+{
+    "name": "Tnight",
+    "eoa": "0x4a14dBb1cea407357E62EE5bDd2d8Febe067A16A",
+    "pk": "0xc795f641d1827311b4be8becfe7ea6ae6429ff268640a910cde2344777891fb3",
+    "network": {
+        "rpcURL": "https://goerli.infura.io/v3/b31f742b84994b749866a0dcd11fe625",
+        "txPrefix": "https://goerli.etherscan.io/tx/",
+        "ca": "0x0a9543fa051a55b557033ff1afbe2b162d9b6394"
+    },
+    "version": "0.1.0"
+}
